@@ -1,0 +1,17 @@
+References:
+
+Zybooks - https://learn.zybooks.com/zybook/WGUD276v3?selectedPanel=student-activity
+
+App to Develop - Visual Studio Code
+
+My actual resume PDF was the basis of this project attached inside this extracted project labeled 2025 resume PDF
+
+Sams Teach Yourself HTML, CSS, & JavaScript All in One - 3rd Edition - Jennifer Kyrnin & Julie C. Meloni
+
+HTML - an indispensable guide for HTML newbies! - in easy steps - 9th Edition - Mike McGrath
+
+JavaScript - Absolute Beginner's Guide - No experience necessary! - Kirupa Chinnathambi
+
+Coding for Beginners - modern programming for all ages - in easy steps - 2nd Edition - Mike McGrath
+
+Theme assets from previous websites I have built in both Shopify, Clickfunnels, and other funnel and webpage builders.
