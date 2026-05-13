@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Justin Smith - Career Goals</title>
+    <link rel="stylesheet" href="CSS/styles.css" />
+</head>
+<body>
+    <header class="header">
+        <h1>Justin Smith</h1>
+        <nav id="nav-menu">
+            <a href="resume.html">Resume</a> |
+            <a href="cover-letter.html">Cover Letter</a> |
+            <a href="career-goals.html">Career Goals</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>My Career Goals</h2>
+            <p>I aim to continuously grow my expertise in digital marketing, operations management, and technical innovation while contributing meaningfully in diverse fields.</p>
+
+            <img src="Images/ME.jpg" alt="Justin Smith Profile" width="250" />
+
+            <audio controls>
+                <source src="audio/sample.mp3" type="audio/mp3" />
+                Your browser does not support the audio element.
+            </audio>
+
+            <video width="320" height="240" controls>
+                <source src="video/sample.mp4" type="video/mp4" />
+                Your browser does not support the video tag.
+            </video>
+        </section>
+
+        <section>
+            <h2>Contact Form</h2>
+            <form action="https://wp.zybooks.com/form-viewer.php" method="post">
+                <label for="fname">First Name:</label><br />
+                <input type="text" id="fname" name="fname" required /><br />
+
+                <label for="lname">Last Name:</label><br />
+                <input type="text" id="lname" name="lname" required /><br />
+
+                <label for="company">Company Name:</label><br />
+                <input type="text" id="company" name="company" /><br />
+
+                <label for="email">Email:</label><br />
+                <input type="email" id="email" name="email" required /><br />
+
+                <label for="phone">Phone Number:</label><br />
+                <input type="tel" id="phone" name="phone" /><br />
+
+                <label for="message">Message:</label><br />
+                <textarea id="message" name="message" rows="4" required></textarea><br />
+
+                <fieldset>
+                    <legend>Best Contact Time</legend>
+                    <label><input type="radio" name="contact_time" value="am" checked /> a.m.</label><br />
+                    <label><input type="radio" name="contact_time" value="pm" /> p.m.</label><br />
+                    <label><input type="radio" name="contact_time" value="anytime" /> Anytime</label>
+                </fieldset>
+
+                <label for="contact_method">Preferred Contact Method:</label><br />
+                <select id="contact_method" name="contact_method">
+                    <option value="phone">Phone</option>
+                    <option value="email">Email</option>
+                    <option value="text">Text</option>
+                </select><br /><br />
+
+                <input type="submit" value="Submit" />
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Justin Smith</p>
+    </footer>
+</body>
+</html>
